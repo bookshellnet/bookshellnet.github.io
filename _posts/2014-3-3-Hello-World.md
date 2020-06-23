@@ -1,8 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: 'My second try at Jekyll '
 published: true
 ---
-# My Second Try
-
 ## Hello World
