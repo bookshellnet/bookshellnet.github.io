@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+An enthusiast in books and technology.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+This is foremost a personal blog. I aim to write books and technology but really I want an outlet for everything I'm interested in.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+If you would like to write to me.
+
+[comments@bookshell.net](mailto:comments@bookshell.net)
