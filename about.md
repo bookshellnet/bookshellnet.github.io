@@ -14,4 +14,4 @@ This is foremost a personal blog. I aim to write books and technology but really
 
 If you would like to write to me.
 
-[comments@bookshell.net](mailto:comments@bookshell.net)
+[hello@bookshell.net](mailto:hello@bookshell.net)
